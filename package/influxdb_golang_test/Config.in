@@ -1,0 +1,4 @@
+config BR2_PACKAGE_INFLUXDB_GOLANG_TEST
+	bool "go test"
+	help
+		Package pour l'application influxDB_test
